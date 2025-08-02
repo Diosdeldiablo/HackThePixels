@@ -52,7 +52,7 @@ This screenshot displays the uploaded emoji image (si.jpg) on the left, along wi
 
 ## Team Contributions
 - Prarthana M J: Implemented core image-to-binary conversion logic in HTML; worked on binary statistics and summary features; created README and documentation.
-- CHANDANA CHANDRAN: Frontend design, styling, and UX using HTML; created README and documentation ;helped test and debug; suggested improvements to UI.
+- CHANDANA CHANDRAN: Frontend design, styling, and UX using HTML; created README and documentation; helped test and debug; suggested improvements to UI.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
